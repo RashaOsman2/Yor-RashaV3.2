@@ -1,4 +1,4 @@
-/*
+
 module.exports.config = {
   name: "awto",
   version: "1.0.0",
